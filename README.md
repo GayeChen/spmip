@@ -15,9 +15,11 @@
     </a>
 </p>
 
-# MIP 2
+# SPMIP
 
-这个项目包含 mip 核心、mip-cli、mip-validator、mip-sandbox 代码，位于 packages 目录下
+这个项目fork自mip2
+包含mip原本的mip 核心、mip-cli、mip-validator、mip-sandbox 代码，
+spmip 修改了MIP 的 runtime 和 compiler 实现，使其可以运行在小程序环境中，从而为mip组件编译为小程序提供了解决方案
 
 ## 代码规范
 
